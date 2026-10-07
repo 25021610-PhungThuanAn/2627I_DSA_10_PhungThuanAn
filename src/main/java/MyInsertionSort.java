@@ -1,4 +1,4 @@
-public class InsertionSort {
+public class MyInsertionSort {
     public void insertIntoSorted(int[] arr)
     {
         int temp = arr[arr.length - 1];
